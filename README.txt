@@ -24,6 +24,11 @@ First submission went pretty seamlessly. What I've learned so far:
    github option. 
 
 2) THe rest of it went smoothly.  I found that when I downloaded the submission 
-   from Matlab, github took care of putting them in a zip which appeared in my 
-   download file. 
+   from Matlab, github took care of putting the files in a zip file which appeared in my 
+   download file folder. 
+
+3) Editing this file and dropping it into my github repository and then re-committing is
+   likewise seamless.  
+
+ 
 
